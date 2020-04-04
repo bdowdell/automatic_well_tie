@@ -44,7 +44,7 @@ The typical method of performing this calibration is the seismic-to-well tie whi
 
 1. Tormene, P., T. Giorgino, S. Quaglini, and M. Stefanelli (2008), *Matching Incomplete Time Series with Dynamic Time Warping: An Algorithm and an Application to Post-Stroke Rehabilitation*, Artificial Intelligence in Medicine, 45(1), 11-34, [doi:10.1016/j.artmed.2008.11.007](https://doi.org/10.1016/j.artmed.2008.11.007).
 
-1. Sakoe, H., and S. Chiba, 1978, *Dynamic programming algorithm optimization for spoken word recognition*, IEEE Transactions on Acoustics, Speech, and Signal Processing, 26, 43–49, [doi: 10.1109/TASSP.1978.1163055.IETABA0096-3518](https://doi.org/10.1109/TASSP.1978.1163055.IETABA0096-3518)
+1. Sakoe, H., and S. Chiba, 1978, *Dynamic programming algorithm optimization for spoken word recognition*, IEEE Transactions on Acoustics, Speech, and Signal Processing, 26, 43–49, [doi: 10.1109/TASSP.1978.1163055](https://doi.org/10.1109/TASSP.1978.1163055)
 
 1. Wang, K., J. Lomask, and F. Segovia, (2017), *Automatic, geologic layer-constrained well-seismic tie through blocked dynamic warping*, Interpretation 5: SJ81-SJ90. [doi: 10.1190/INT-2016-0160.1](https://doi.org/10.1190/INT-2016-0160.1)
 
