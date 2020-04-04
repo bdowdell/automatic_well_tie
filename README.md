@@ -26,7 +26,7 @@ The typical method of performing this calibration is the seismic-to-well tie whi
 
 1. Cui, T. and G.F. Margrave (2015), *Drift time estimation by dynamic time warping*, [GeoConvention New Horizons](https://geoconvention.com/wp-content/uploads/abstracts/2015/088_GC2015_Drift_time_estimation_by_dynamic_time_warping.pdf).
 
-1. Giorgino, S., (2009) *Computing and Visualizing Dynamic Time Warping Alignments in R: The dtw Package*, J. Stat. Soft., 31, [doi: 10.18637/jss.v031.i07](https://doi.org/10.18637/jss.v031.i07).
+1. Giorgino, T., (2009) *Computing and Visualizing Dynamic Time Warping Alignments in R: The dtw Package*, J. Stat. Soft., 31, [doi: 10.18637/jss.v031.i07](https://doi.org/10.18637/jss.v031.i07).
 
 1. Hale, D., (2013), *Dynamic warping of seismic images*, GEOPHYSICS 78: S105-S115, [doi: 10.1190/geo2012-0327.1](https://doi.org/10.1190/geo2012-0327.1).
 
@@ -42,7 +42,7 @@ The typical method of performing this calibration is the seismic-to-well tie whi
 
 1. Muñoz, A. and D. Hale (2012), *Automatically tying well logs to seismic data*, Center for Wave Phenomena Report, [725](https://cwp.mines.edu/wp-content/uploads/sites/112/2018/08/CWP725-min.pdf).
 
-1. Tormene, T., Giorgino, S. Quaglini, and M. Stefanelli (2008), *Matching Incomplete Time Series with Dynamic Time Warping: An Algorithm and an Application to Post-Stroke Rehabilitation*, Artificial Intelligence in Medicine, 45(1), 11-34, [doi:10.1016/j.artmed.2008.11.007](https://doi.org/10.1016/j.artmed.2008.11.007).
+1. Tormene, P., T. Giorgino, S. Quaglini, and M. Stefanelli (2008), *Matching Incomplete Time Series with Dynamic Time Warping: An Algorithm and an Application to Post-Stroke Rehabilitation*, Artificial Intelligence in Medicine, 45(1), 11-34, [doi:10.1016/j.artmed.2008.11.007](https://doi.org/10.1016/j.artmed.2008.11.007).
 
 1. Sakoe, H., and S. Chiba, 1978, *Dynamic programming algorithm optimization for spoken word recognition*, IEEE Transactions on Acoustics, Speech, and Signal Processing, 26, 43–49, [doi: 10.1109/TASSP.1978.1163055.IETABA0096-3518](https://doi.org/10.1109/TASSP.1978.1163055.IETABA0096-3518)
 
